@@ -6,7 +6,7 @@ Phaser Tutorial
 Instructions to this assignment can be found [here](https://uc.instructure.com/courses/1641850/assignments/20048178).
 
 ## Checklist:
-- [ ] update the assignment checks above to the correct link
+- [x] update the assignment checks above to the correct link
 - [ ] make sure the assignment checks pass
 - [ ] fill out the self evaluation and Reflection
 - [ ] submit the repository link on Canvas
