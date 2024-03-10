@@ -7,14 +7,16 @@ Instructions to this assignment can be found [here](https://uc.instructure.com/c
 
 ## Checklist:
 - [x] update the assignment checks above to the correct link
-- [ ] make sure the assignment checks pass
-- [ ] fill out the self evaluation and Reflection
-- [ ] submit the repository link on Canvas
+- [x] make sure the assignment checks pass
+- [x] fill out the self evaluation and Reflection
+- [x] submit the repository link on Canvas
 
 ## Self-Evaluation:
 
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment: 18/20
 
 ## Self-Reflection:
+This was a fun game to build and I enjoyed seeing how all the parts came together. Learning how to add in sounds was really cool as well. This could be extremely useful when creating a game since sounds can make or break immersion.
 
 ### How long it took me to finish this?
+4 hours
